@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GloryMurega
+- 👋 Hi, I’m GloryMurega
 - 👀 I’m interested in utilizing data to derive insights that facilitate well-informed decision-making.
 - 🌱 I’m refining my expertise in data analysis, business  intelligence, machine learning, cloud computing & programming, and I'm eager to apply them in a professional setting.
 - 💞️ I’m looking to collaborate on entry-level projects that involve real-world datasets and to create data-led impact in a growth-oriented company.

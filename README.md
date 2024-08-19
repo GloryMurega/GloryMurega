@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GloryMurega
 - 👀 I’m interested in utilizing data to derive insights that facilitate well-informed decision-making.
 - 🌱 I’m building my expertise in data science, analytics, business  intelligence, machine learning, cloud computing & programming, and I'm eager to apply them in a professional setting.
-- 💞️ I’m looking for a junior data scientist position and opportunities to create data-led impact in a growth-oriented company.
+- 💞️ I’m looking for data scientist and research opportunities.
 - 📫 How to reach me: Feel free to connect with me on LinkedIn [https://www.linkedin.com/in/glory-m-b61067b5]
 - ⚡ Fun fact: Outside of my data-centric pursuits, I enjoy engaging in activities that push my personal boundaries such as mountain climbing, hiking and zip-linning. 
 

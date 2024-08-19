@@ -1,4 +1,4 @@
-- 👋 Hi, I’m GloryMurega
+- 👋 Hi, I’m Glory Murega
 - 👀 I’m interested in utilizing data to derive insights that facilitate well-informed decision-making.
 - 🌱 I’m building my expertise in data science, analytics, business  intelligence, machine learning, cloud computing & programming, and I'm eager to apply them in a professional setting.
 - 💞️ I’m looking for data scientist and research opportunities.

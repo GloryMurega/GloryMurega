@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Glory Murega
 - 👀 Currently working as a researcher on Human-AI interactions and Explainable AI (XAI), especially within the context of organizational behaviour.
 - 🌱 I have expertise in data science, business intelligence (BI), machine learning (ML), cloud computing, and programming
-- 📫 How to reach me: [Let's connect on LinkedIn](https://www.linkedin.com/in/glorymurega)
+- 📫 How to reach me: Let's connect on [LinkedIn](https://www.linkedin.com/in/glorymurega)
 - ⚡ Fun fact: When I'm not immersed in data and research, you'll likely find me in nature, exploring museums, traveling to new places, or volunteering with Rotary International.
 
 ### Skills
